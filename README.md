@@ -14,5 +14,6 @@ Simple script to create OTA updates for unofficial devices.
         - TODO granularize this
 1. In the `api` directory, `<device>.json` is created. Upload this to wherever your website is located
     - You can directly use this project with GitHub Pages, and then the URL would be something similar to `https://raw.githubusercontent.com/<username>/lineage_ota/master/api/<device>.json`
+        - apparently props have a max length of 91, if the GitHub URL is too long you will need to host it elsewhere
 1. In your device's system properties, set `lineage.updater.uri` to the URL of the JSON file that was just created
     - if you did not build with this set, the build you used to generate JSON in step 1 will not check for this. You can just re-run script after building ROM with this prop set.
