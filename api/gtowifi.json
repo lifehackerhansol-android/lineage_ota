@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1673769600,
-      "filename": "lineage-19.1-20230115-UNOFFICIAL-gtowifi.zip",
-      "id": "438c5e3d50411643ef30c4d9e7285242ad965b7b2542c5636edd21e910c7e1bf",
+      "datetime": 1673942400,
+      "filename": "lineage-20.0-20230117-UNOFFICIAL-gtowifi.zip",
+      "id": "6b02bc0e25fa6202cec7e763fdbb6faf2b82aec7c23f8125c25068e1e3191fa9",
       "romtype": "unofficial",
-      "size": 816850260,
-      "url": "https://sourceforge.net/projects/lifehackerhansol-android/files/lineage-19.1-20230115-UNOFFICIAL-gtowifi.zip",
-      "version": "19.1"
+      "size": 836103060,
+      "url": "https://sourceforge.net/projects/lifehackerhansol-android/files/lineage-20.0-20230117-UNOFFICIAL-gtowifi.zip",
+      "version": "20.0"
     }
   ]
 }
