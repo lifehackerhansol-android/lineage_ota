@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1673942400,
-      "filename": "lineage-20.0-20230117-UNOFFICIAL-joan.zip",
-      "id": "356fb04c525985edeaeefe8fa9a3c7759c55b282d982abc3d914c8afb3c6f376",
+      "datetime": 1676361600,
+      "filename": "lineage-20.0-20230214-UNOFFICIAL-joan.zip",
+      "id": "5ed6ed0d71f3689541d80f03e81672befb79001b9a94c368cc13c914b2567a3e",
       "romtype": "unofficial",
-      "size": 877793319,
-      "url": "https://sourceforge.net/projects/lifehackerhansol-android/files/lineage-20.0-20230117-UNOFFICIAL-joan.zip",
+      "size": 879012769,
+      "url": "https://sourceforge.net/projects/lifehackerhansol-android/files/joan/lineage-20.0-20230214-UNOFFICIAL-joan.zip",
       "version": "20.0"
     }
   ]
