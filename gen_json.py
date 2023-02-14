@@ -48,7 +48,7 @@ def build_json(file: str, url: str):
 
     # URL: download location
     # Get base URL from function argument, then just append the file name
-    response["url"] = f'{url}/{response["filename"]}'
+    response["url"] = f'{url}/{device}/{response["filename"]}'
 
     # version: ROM version
     response["version"] = version
