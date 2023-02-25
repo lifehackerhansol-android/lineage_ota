@@ -1,5 +1,6 @@
 {
     "builds": {
-        "joan": "lineage-20.0-20230225-UNOFFICIAL-joan.zip"
+        "joan": "lineage-20.0-20230225-UNOFFICIAL-joan.zip",
+        "h932": "lineage-20.0-20230225-UNOFFICIAL-h932.zip"
     }
 }
